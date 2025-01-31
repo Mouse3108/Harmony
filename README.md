@@ -1,2 +1,2 @@
-Harmone
+HARMONY
 Дипломный проект
